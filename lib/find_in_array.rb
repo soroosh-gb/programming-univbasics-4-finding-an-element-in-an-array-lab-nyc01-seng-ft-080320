@@ -6,6 +6,6 @@ def find_element_index(array, value_to_find)
      result.push(array[counter])
    } else
    counter += 1 
- end
+  end
  end
 
